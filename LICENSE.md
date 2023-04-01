@@ -1,4 +1,4 @@
-Copyright (C) 2012 Yoshimasa Niwa
+Copyright (C) 2012 Taylor Maass
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
